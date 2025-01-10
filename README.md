@@ -1,3 +1,3 @@
 # NetworkFundamentals
 
-The Repo contains fundamental networking infomration. 
+The repo contains fundamental networking infomration. 
